@@ -1,0 +1,11 @@
+{
+  "autoBuild": false,
+  "path": "",
+  "scenesUuid": [
+    "94fd2f92-6fbc-4ec2-bbf4-1dc41733bf46",
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "selectAllScenes": true,
+  "setup": false,
+  "startSceneUuid": "94fd2f92-6fbc-4ec2-bbf4-1dc41733bf46"
+}

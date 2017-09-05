@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "8ee7d0ca-0afa-41b2-8cbc-b8ad748d3933",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "ico_weixin": {
+      "ver": "1.0.3",
+      "uuid": "1456122c-7c91-449b-8c3e-d9c6b8f716de",
+      "rawTextureUuid": "8ee7d0ca-0afa-41b2-8cbc-b8ad748d3933",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 22,
+      "trimY": 1,
+      "width": 107,
+      "height": 109,
+      "rawWidth": 151,
+      "rawHeight": 110,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
