@@ -5,14 +5,10 @@ cc._RF.push(module, 'd8c1eUzR+RCHbqvoeNFeg5E', 'GameLogic');
 "use strict";
 
 cc.Class({
-    extends: cc.Component,
-
-    properties: {},
-
-    // use this for initialization
-    onLoad: function onLoad() {
-        print("GameLogic onLoad");
+    ctor: function ctor() {
+        cc.log("GameLogic ctor");
     }
+
 });
 
 cc._RF.pop();

@@ -1,89 +1,465 @@
-2017-09-05T11:57:16.533Z - normal: Load ~/.CocosCreator/settings.json
-2017-09-05T11:57:16.536Z - normal: checking language setting...
-2017-09-05T11:57:16.536Z - normal: Language: zh
-2017-09-05T11:57:18.010Z - success: protocol editor-framework registered
-2017-09-05T11:57:18.011Z - success: protocol app registered
-2017-09-05T11:57:18.012Z - success: protocol theme registered
-2017-09-05T11:57:18.012Z - success: protocol profile registered
-2017-09-05T11:57:18.012Z - success: protocol packages registered
-2017-09-05T11:57:18.012Z - success: protocol unpack registerred
-2017-09-05T11:57:18.012Z - success: protocol disable-commonjs registerred
-2017-09-05T11:57:18.282Z - normal: connected!
-2017-09-05T11:57:18.285Z - normal: Check project D:\GitHub\Game
-2017-09-05T11:57:18.287Z - normal: Initializing Cocos2d
-2017-09-05T11:57:18.927Z - normal: Initializing Asset Database
-2017-09-05T11:57:18.977Z - success: protocol uuid registerred
-2017-09-05T11:57:18.977Z - success: protocol db registerred
-2017-09-05T11:57:18.977Z - success: protocol thumbnail registerred
-2017-09-05T11:57:18.977Z - normal: Loading editor/builtin packages
-2017-09-05T11:57:19.009Z - success: anysdk loaded
-2017-09-05T11:57:19.154Z - success: assets loaded
-2017-09-05T11:57:19.157Z - success: builder loaded
-2017-09-05T11:57:19.160Z - success: hierarchy loaded
-2017-09-05T11:57:19.164Z - success: inspector loaded
-2017-09-05T11:57:19.165Z - success: keystore loaded
-2017-09-05T11:57:19.167Z - success: node-library loaded
-2017-09-05T11:57:19.168Z - success: package-asset loaded
-2017-09-05T11:57:19.169Z - success: preferences loaded
-2017-09-05T11:57:19.182Z - success: project-importer loaded
-2017-09-05T11:57:19.185Z - success: project-settings loaded
-2017-09-05T11:57:19.195Z - success: ui-kit loaded
-2017-09-05T11:57:19.197Z - success: ui-grid loaded
-2017-09-05T11:57:19.199Z - success: scene loaded
-2017-09-05T11:57:19.199Z - success: sprite-editor loaded
-2017-09-05T11:57:19.202Z - success: store loaded
-2017-09-05T11:57:19.207Z - success: timeline loaded
-2017-09-05T11:57:19.207Z - normal: Loading builtin packages
-2017-09-05T11:57:19.211Z - success: asset-db-debugger loaded
-2017-09-05T11:57:19.212Z - success: code-editor loaded
-2017-09-05T11:57:19.215Z - success: color-picker loaded
-2017-09-05T11:57:19.217Z - success: console loaded
-2017-09-05T11:57:19.219Z - success: package-manager loaded
-2017-09-05T11:57:19.228Z - success: sdkbox loaded
-2017-09-05T11:57:19.230Z - success: tester loaded
-2017-09-05T11:57:19.231Z - success: ui-kit-preview-extra loaded
-2017-09-05T11:57:19.232Z - success: ui-kit-preview loaded
-2017-09-05T11:57:19.233Z - success: ui-tree loaded
-2017-09-05T11:57:20.184Z - normal: Initializing project D:\GitHub\Game
-2017-09-05T11:57:20.187Z - normal: Loading packages
-2017-09-05T11:57:20.200Z - normal: [Lua Support] version 1.1.6
-2017-09-05T11:57:20.200Z - success: creator-lua-support loaded
-2017-09-05T11:57:20.211Z - success: hot-update-tools loaded
-2017-09-05T11:57:20.211Z - normal: Watching packages
-2017-09-05T11:57:20.258Z - normal: Run Application
-2017-09-05T11:57:20.911Z - success: preview server running at http://localhost:7456
-2017-09-05T11:57:24.913Z - normal: 1.5.1
-2017-09-05T11:59:09.006Z - normal: Compiled project javascript file successfully
-2017-09-05T11:59:16.358Z - normal: Compiled project javascript file successfully
-2017-09-05T11:59:37.965Z - normal: Compiled project javascript file successfully
-2017-09-05T11:59:38.008Z - warn: ctor of CCClass '3617' should not accept any arguments.
-2017-09-05T12:02:16.471Z - normal: Compiled project javascript file successfully
-2017-09-05T12:02:16.604Z - warn: ctor of CCClass '3617' should not accept any arguments.
-2017-09-05T12:02:35.650Z - normal: Compiled project javascript file successfully
-2017-09-05T12:02:35.699Z - warn: ctor of CCClass '3617' should not accept any arguments.
-2017-09-05T12:02:51.228Z - normal: Compiled project javascript file successfully
-2017-09-05T12:02:51.280Z - warn: ctor of CCClass '3617' should not accept any arguments.
-2017-09-05T12:08:39.970Z - normal: Compiled project javascript file successfully
-2017-09-05T12:08:52.284Z - normal: Compiled project javascript file successfully
-2017-09-05T12:08:52.285Z - error: Compile error: Cannot require 'Cell' from 'D:\GitHub\Game\temp\scripts\assets\Script\MainScene'. Module not found.
-    at Readable.<anonymous> (D:\installdir\CocosCreator\resources\app.asar\editor\page\compile-worker.js:1:3157)
-    at emitOne (events.js:96:13)
-    at Readable.emit (events.js:188:7)
-    at Labeled.<anonymous> (D:\installdir\CocosCreator\resources\app.asar\node_modules\read-only-stream\index.js:28:44)
-    at emitOne (events.js:96:13)
-    at Labeled.emit (events.js:188:7)
-    at Labeled.<anonymous> (D:\installdir\CocosCreator\resources\app.asar\node_modules\stream-splicer\index.js:130:18)
-    at emitOne (events.js:101:20)
-    at Labeled.emit (events.js:188:7)
-    at Deps.<anonymous> (D:\installdir\CocosCreator\resources\app.asar\node_modules\stream-splicer\index.js:130:18)
-    at D:\installdir\CocosCreator\resources\app.asar\editor\core\compiler.js:1:1036
-    at D:\installdir\CocosCreator\resources\app.asar\editor\core\compiler.js:1:466
-    at BrowserWindow.<anonymous> (D:\installdir\CocosCreator\resources\app.asar\editor\core\compiler.js:1:2125)
-    at BrowserWindow.g (events.js:286:16)
-    at emitOne (events.js:101:20)
-    at BrowserWindow.emit (events.js:188:7)
-2017-09-05T12:09:09.766Z - normal: Compiled project javascript file successfully
-2017-09-05T12:09:14.140Z - normal: Compiled project javascript file successfully
-2017-09-05T12:09:23.861Z - normal: Compiled project javascript file successfully
-2017-09-05T12:29:21.666Z - normal: Compiled project javascript file successfully
-2017-09-05T12:30:15.783Z - normal: Compiled project javascript file successfully
+2017-09-06T12:18:14.945Z - normal: Load ~/.CocosCreator/settings.json
+2017-09-06T12:18:14.948Z - normal: checking language setting...
+2017-09-06T12:18:14.948Z - normal: Language: zh
+2017-09-06T12:18:16.251Z - success: protocol editor-framework registered
+2017-09-06T12:18:16.251Z - success: protocol app registered
+2017-09-06T12:18:16.251Z - success: protocol theme registered
+2017-09-06T12:18:16.251Z - success: protocol profile registered
+2017-09-06T12:18:16.251Z - success: protocol packages registered
+2017-09-06T12:18:16.251Z - success: protocol unpack registerred
+2017-09-06T12:18:16.253Z - success: protocol disable-commonjs registerred
+2017-09-06T12:18:16.490Z - normal: connected!
+2017-09-06T12:18:16.494Z - normal: Check project D:\GitHub\GamePro
+2017-09-06T12:18:16.497Z - normal: Initializing Cocos2d
+2017-09-06T12:18:16.654Z - normal: Initializing Asset Database
+2017-09-06T12:18:16.677Z - success: protocol uuid registerred
+2017-09-06T12:18:16.677Z - success: protocol db registerred
+2017-09-06T12:18:16.677Z - success: protocol thumbnail registerred
+2017-09-06T12:18:16.677Z - normal: Loading editor/builtin packages
+2017-09-06T12:18:16.692Z - success: anysdk loaded
+2017-09-06T12:18:16.792Z - success: assets loaded
+2017-09-06T12:18:16.794Z - success: builder loaded
+2017-09-06T12:18:16.796Z - success: hierarchy loaded
+2017-09-06T12:18:16.798Z - success: inspector loaded
+2017-09-06T12:18:16.799Z - success: keystore loaded
+2017-09-06T12:18:16.801Z - success: node-library loaded
+2017-09-06T12:18:16.802Z - success: package-asset loaded
+2017-09-06T12:18:16.804Z - success: preferences loaded
+2017-09-06T12:18:16.815Z - success: project-importer loaded
+2017-09-06T12:18:16.817Z - success: project-settings loaded
+2017-09-06T12:18:16.820Z - success: ui-kit loaded
+2017-09-06T12:18:16.821Z - success: ui-grid loaded
+2017-09-06T12:18:16.824Z - success: scene loaded
+2017-09-06T12:18:16.824Z - success: sprite-editor loaded
+2017-09-06T12:18:16.827Z - success: store loaded
+2017-09-06T12:18:16.831Z - success: timeline loaded
+2017-09-06T12:18:16.831Z - normal: Loading builtin packages
+2017-09-06T12:18:16.832Z - success: asset-db-debugger loaded
+2017-09-06T12:18:16.833Z - success: code-editor loaded
+2017-09-06T12:18:16.833Z - success: color-picker loaded
+2017-09-06T12:18:16.835Z - success: console loaded
+2017-09-06T12:18:16.836Z - success: package-manager loaded
+2017-09-06T12:18:16.843Z - success: sdkbox loaded
+2017-09-06T12:18:16.845Z - success: tester loaded
+2017-09-06T12:18:16.846Z - success: ui-kit-preview-extra loaded
+2017-09-06T12:18:16.848Z - success: ui-kit-preview loaded
+2017-09-06T12:18:16.848Z - success: ui-tree loaded
+2017-09-06T12:18:17.518Z - normal: Initializing project D:\GitHub\GamePro
+2017-09-06T12:18:17.521Z - normal: Loading packages
+2017-09-06T12:18:17.530Z - normal: [Lua Support] version 1.1.6
+2017-09-06T12:18:17.531Z - success: creator-lua-support loaded
+2017-09-06T12:18:17.540Z - success: hot-update-tools loaded
+2017-09-06T12:18:17.541Z - normal: Watching packages
+2017-09-06T12:18:17.574Z - normal: Run Application
+2017-09-06T12:18:17.846Z - success: preview server running at http://localhost:7456
+2017-09-06T12:18:21.103Z - normal: 1.5.1
+2017-09-06T12:20:05.860Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "D:\\GitHub\\GamePro\\build",
+  "debug": true,
+  "dest": "D:\\GitHub\\GamePro\\build\\web-desktop",
+  "excludedModules": [],
+  "includeAnySDK": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-desktop",
+  "previewHeight": 720,
+  "previewWidth": 1280,
+  "privateKey": "",
+  "renderMode": "0",
+  "scenes": [
+    {
+      "url": "db://assets/Scene/MainScene.fire",
+      "uuid": "94fd2f92-6fbc-4ec2-bbf4-1dc41733bf46"
+    },
+    {
+      "url": "db://assets/Scene/MoveGameScene.fire",
+      "uuid": "2d2f792f-a40c-49bb-a189-ed176a246e49"
+    }
+  ],
+  "sourceMaps": true,
+  "startScene": "94fd2f92-6fbc-4ec2-bbf4-1dc41733bf46",
+  "template": "default",
+  "title": "eliminate",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "project": "D:\\GitHub\\GamePro",
+  "projectName": "eliminate",
+  "runtimePath": "D:\\installdir\\CocosCreator\\resources\\engine",
+  "debugBuildWorker": false
+}
+2017-09-06T12:20:05.861Z - normal: Building D:\GitHub\GamePro
+2017-09-06T12:20:05.861Z - normal: Destination D:\GitHub\GamePro\build\web-desktop
+2017-09-06T12:20:06.614Z - normal: Delete D:\GitHub\GamePro\build\web-desktop\res/**/*
+2017-09-06T12:20:06.616Z - normal: Delete D:\GitHub\GamePro\build\web-desktop\src/*/
+2017-09-06T12:20:22.314Z - normal: Compiled project javascript file successfully
+2017-09-06T12:20:22.316Z - normal: Start building assets
+2017-09-06T12:20:22.316Z - normal: Start spawn build-worker
+2017-09-06T12:20:41.584Z - normal: Load worker timeout, reload worker.
+2017-09-06T12:20:42.216Z - normal: Finish spawn build-worker
+2017-09-06T12:20:42.216Z - normal: Start init build-worker
+2017-09-06T12:20:43.630Z - normal: 1.5.1
+2017-09-06T12:20:43.677Z - normal: Finish init build-worker
+2017-09-06T12:20:43.677Z - normal: Start build-assets in worker
+2017-09-06T12:20:44.288Z - normal: Finish build-assets in worker
+2017-09-06T12:20:44.291Z - normal: Finish building assets
+2017-09-06T12:20:44.300Z - normal: Start building raw assets
+2017-09-06T12:20:44.301Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\TetrisGame\CTGcurscore.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\TetrisGame\CTGcurscore.png
+2017-09-06T12:20:44.301Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\common\ico_add_cell.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\ico_add_cell.png
+2017-09-06T12:20:44.301Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\common\ico_audio_on.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\ico_audio_on.png
+2017-09-06T12:20:44.301Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\common\item_ico_refresh.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\item_ico_refresh.png
+2017-09-06T12:20:44.301Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\TetrisGame\CTGhighscore.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\TetrisGame\CTGhighscore.png
+2017-09-06T12:20:44.301Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\common\ico_glod.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\ico_glod.png
+2017-09-06T12:20:44.301Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\common\pause.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\pause.png
+2017-09-06T12:20:44.301Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\MainScene\main_bg.jpg to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\MainScene\main_bg.jpg
+2017-09-06T12:20:44.301Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\MainScene\start_title.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\MainScene\start_title.png
+2017-09-06T12:20:44.301Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\common\ico_scene_bg.jpg to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\ico_scene_bg.jpg
+2017-09-06T12:20:44.301Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\MainScene\ico_start_game.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\MainScene\ico_start_game.png
+2017-09-06T12:20:44.302Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\common\ico_game_bg.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\ico_game_bg.png
+2017-09-06T12:20:44.302Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\common\item_ico_break.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\item_ico_break.png
+2017-09-06T12:20:44.302Z - normal: [build-raw-assets] Start copying D:\installdir\CocosCreator\resources\static\default-assets\image\default_btn_disabled.png to D:\GitHub\GamePro\build\web-desktop\res\raw-internal\image\default_btn_disabled.png
+2017-09-06T12:20:44.302Z - normal: [build-raw-assets] Start copying D:\installdir\CocosCreator\resources\static\default-assets\image\default_btn_pressed.png to D:\GitHub\GamePro\build\web-desktop\res\raw-internal\image\default_btn_pressed.png
+2017-09-06T12:20:44.302Z - normal: [build-raw-assets] Start copying D:\installdir\CocosCreator\resources\static\default-assets\image\default_btn_normal.png to D:\GitHub\GamePro\build\web-desktop\res\raw-internal\image\default_btn_normal.png
+2017-09-06T12:20:44.364Z - normal: [build-raw-assets] Finish copying D:\installdir\CocosCreator\resources\static\default-assets\image\default_btn_disabled.png to D:\GitHub\GamePro\build\web-desktop\res\raw-internal\image\default_btn_disabled.png
+2017-09-06T12:20:44.366Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\TetrisGame\CTGcurscore.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\TetrisGame\CTGcurscore.png
+2017-09-06T12:20:44.372Z - normal: [build-raw-assets] Finish copying D:\installdir\CocosCreator\resources\static\default-assets\image\default_btn_normal.png to D:\GitHub\GamePro\build\web-desktop\res\raw-internal\image\default_btn_normal.png
+2017-09-06T12:20:44.372Z - normal: [build-raw-assets] Finish copying D:\installdir\CocosCreator\resources\static\default-assets\image\default_btn_pressed.png to D:\GitHub\GamePro\build\web-desktop\res\raw-internal\image\default_btn_pressed.png
+2017-09-06T12:20:44.379Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\common\ico_add_cell.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\ico_add_cell.png
+2017-09-06T12:20:44.398Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\common\ico_audio_on.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\ico_audio_on.png
+2017-09-06T12:20:44.398Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\TetrisGame\CTGhighscore.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\TetrisGame\CTGhighscore.png
+2017-09-06T12:20:44.398Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\common\item_ico_refresh.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\item_ico_refresh.png
+2017-09-06T12:20:44.398Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\common\ico_glod.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\ico_glod.png
+2017-09-06T12:20:44.398Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\common\pause.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\pause.png
+2017-09-06T12:20:44.398Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\common\item_ico_break.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\item_ico_break.png
+2017-09-06T12:20:44.411Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\common\ico_game_bg.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\ico_game_bg.png
+2017-09-06T12:20:44.424Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\common\ico_scene_bg.jpg to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\ico_scene_bg.jpg
+2017-09-06T12:20:44.425Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\MainScene\start_title.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\MainScene\start_title.png
+2017-09-06T12:20:44.425Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\MainScene\ico_start_game.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\MainScene\ico_start_game.png
+2017-09-06T12:20:44.426Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\MainScene\main_bg.jpg to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\MainScene\main_bg.jpg
+2017-09-06T12:20:44.426Z - normal: Finish building raw assets
+2017-09-06T12:20:44.447Z - normal: Generating main.js from D:\installdir\CocosCreator\resources\static\build-templates\shares\main.js
+2017-09-06T12:20:44.455Z - normal: Generating html from D:\installdir\CocosCreator\resources\static\build-templates\web-desktop\template-dev\index.html
+2017-09-06T12:20:44.459Z - normal: Built to "D:\GitHub\GamePro\build\web-desktop" successfully
+2017-09-06T12:20:44.487Z - normal: [HotUpdateTools] SearchPath updated in built main.js for hot update
+2017-09-06T12:21:18.593Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "D:\\GitHub\\GamePro\\build",
+  "debug": true,
+  "dest": "D:\\GitHub\\GamePro\\build\\web-desktop",
+  "excludedModules": [],
+  "includeAnySDK": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-desktop",
+  "previewHeight": 720,
+  "previewWidth": 1280,
+  "privateKey": "",
+  "renderMode": "0",
+  "scenes": [
+    {
+      "url": "db://assets/Scene/MainScene.fire",
+      "uuid": "94fd2f92-6fbc-4ec2-bbf4-1dc41733bf46"
+    },
+    {
+      "url": "db://assets/Scene/MoveGameScene.fire",
+      "uuid": "2d2f792f-a40c-49bb-a189-ed176a246e49"
+    }
+  ],
+  "sourceMaps": true,
+  "startScene": "94fd2f92-6fbc-4ec2-bbf4-1dc41733bf46",
+  "template": "default",
+  "title": "eliminate",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "project": "D:\\GitHub\\GamePro",
+  "projectName": "eliminate",
+  "runtimePath": "D:\\installdir\\CocosCreator\\resources\\engine",
+  "debugBuildWorker": false
+}
+2017-09-06T12:21:18.596Z - normal: Building D:\GitHub\GamePro
+2017-09-06T12:21:18.596Z - normal: Destination D:\GitHub\GamePro\build\web-desktop
+2017-09-06T12:21:18.598Z - normal: Delete D:\GitHub\GamePro\build\web-desktop\res/**/*
+2017-09-06T12:21:18.602Z - normal: Delete D:\GitHub\GamePro\build\web-desktop\src/*/
+2017-09-06T12:21:19.795Z - normal: Compiled project javascript file successfully
+2017-09-06T12:21:19.796Z - normal: Start building assets
+2017-09-06T12:21:19.796Z - normal: Start spawn build-worker
+2017-09-06T12:21:20.344Z - normal: Finish spawn build-worker
+2017-09-06T12:21:20.344Z - normal: Start init build-worker
+2017-09-06T12:21:21.784Z - normal: 1.5.1
+2017-09-06T12:21:21.812Z - normal: Finish init build-worker
+2017-09-06T12:21:21.812Z - normal: Start build-assets in worker
+2017-09-06T12:21:22.096Z - normal: Finish build-assets in worker
+2017-09-06T12:21:22.099Z - normal: Finish building assets
+2017-09-06T12:21:22.105Z - normal: Start building raw assets
+2017-09-06T12:21:22.105Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\TetrisGame\CTGcurscore.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\TetrisGame\CTGcurscore.png
+2017-09-06T12:21:22.105Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\common\ico_add_cell.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\ico_add_cell.png
+2017-09-06T12:21:22.105Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\common\ico_audio_on.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\ico_audio_on.png
+2017-09-06T12:21:22.106Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\common\item_ico_refresh.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\item_ico_refresh.png
+2017-09-06T12:21:22.106Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\TetrisGame\CTGhighscore.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\TetrisGame\CTGhighscore.png
+2017-09-06T12:21:22.106Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\common\ico_glod.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\ico_glod.png
+2017-09-06T12:21:22.106Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\common\pause.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\pause.png
+2017-09-06T12:21:22.106Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\MainScene\main_bg.jpg to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\MainScene\main_bg.jpg
+2017-09-06T12:21:22.106Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\MainScene\start_title.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\MainScene\start_title.png
+2017-09-06T12:21:22.106Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\common\ico_scene_bg.jpg to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\ico_scene_bg.jpg
+2017-09-06T12:21:22.106Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\MainScene\ico_start_game.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\MainScene\ico_start_game.png
+2017-09-06T12:21:22.106Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\common\ico_game_bg.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\ico_game_bg.png
+2017-09-06T12:21:22.106Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\common\item_ico_break.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\item_ico_break.png
+2017-09-06T12:21:22.106Z - normal: [build-raw-assets] Start copying D:\installdir\CocosCreator\resources\static\default-assets\image\default_btn_disabled.png to D:\GitHub\GamePro\build\web-desktop\res\raw-internal\image\default_btn_disabled.png
+2017-09-06T12:21:22.107Z - normal: [build-raw-assets] Start copying D:\installdir\CocosCreator\resources\static\default-assets\image\default_btn_pressed.png to D:\GitHub\GamePro\build\web-desktop\res\raw-internal\image\default_btn_pressed.png
+2017-09-06T12:21:22.107Z - normal: [build-raw-assets] Start copying D:\installdir\CocosCreator\resources\static\default-assets\image\default_btn_normal.png to D:\GitHub\GamePro\build\web-desktop\res\raw-internal\image\default_btn_normal.png
+2017-09-06T12:21:22.117Z - normal: [build-raw-assets] Finish copying D:\installdir\CocosCreator\resources\static\default-assets\image\default_btn_disabled.png to D:\GitHub\GamePro\build\web-desktop\res\raw-internal\image\default_btn_disabled.png
+2017-09-06T12:21:22.118Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\TetrisGame\CTGcurscore.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\TetrisGame\CTGcurscore.png
+2017-09-06T12:21:22.119Z - normal: [build-raw-assets] Finish copying D:\installdir\CocosCreator\resources\static\default-assets\image\default_btn_pressed.png to D:\GitHub\GamePro\build\web-desktop\res\raw-internal\image\default_btn_pressed.png
+2017-09-06T12:21:22.119Z - normal: [build-raw-assets] Finish copying D:\installdir\CocosCreator\resources\static\default-assets\image\default_btn_normal.png to D:\GitHub\GamePro\build\web-desktop\res\raw-internal\image\default_btn_normal.png
+2017-09-06T12:21:22.121Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\common\ico_audio_on.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\ico_audio_on.png
+2017-09-06T12:21:22.123Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\common\ico_add_cell.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\ico_add_cell.png
+2017-09-06T12:21:22.123Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\common\item_ico_refresh.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\item_ico_refresh.png
+2017-09-06T12:21:22.123Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\common\ico_glod.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\ico_glod.png
+2017-09-06T12:21:22.123Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\common\pause.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\pause.png
+2017-09-06T12:21:22.123Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\TetrisGame\CTGhighscore.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\TetrisGame\CTGhighscore.png
+2017-09-06T12:21:22.124Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\MainScene\start_title.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\MainScene\start_title.png
+2017-09-06T12:21:22.124Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\MainScene\ico_start_game.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\MainScene\ico_start_game.png
+2017-09-06T12:21:22.124Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\common\item_ico_break.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\item_ico_break.png
+2017-09-06T12:21:22.124Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\common\ico_game_bg.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\ico_game_bg.png
+2017-09-06T12:21:22.124Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\common\ico_scene_bg.jpg to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\ico_scene_bg.jpg
+2017-09-06T12:21:22.124Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\MainScene\main_bg.jpg to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\MainScene\main_bg.jpg
+2017-09-06T12:21:22.125Z - normal: Finish building raw assets
+2017-09-06T12:21:22.132Z - normal: Generating main.js from D:\installdir\CocosCreator\resources\static\build-templates\shares\main.js
+2017-09-06T12:21:22.138Z - normal: Generating html from D:\installdir\CocosCreator\resources\static\build-templates\web-desktop\template-dev\index.html
+2017-09-06T12:21:22.154Z - normal: Built to "D:\GitHub\GamePro\build\web-desktop" successfully
+2017-09-06T12:21:22.160Z - normal: [HotUpdateTools] SearchPath updated in built main.js for hot update
+2017-09-06T12:21:48.508Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "D:\\GitHub\\GamePro\\build",
+  "debug": false,
+  "dest": "D:\\GitHub\\GamePro\\build\\web-desktop",
+  "excludedModules": [],
+  "includeAnySDK": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-desktop",
+  "previewHeight": 720,
+  "previewWidth": 1280,
+  "privateKey": "",
+  "renderMode": "0",
+  "scenes": [
+    {
+      "url": "db://assets/Scene/MainScene.fire",
+      "uuid": "94fd2f92-6fbc-4ec2-bbf4-1dc41733bf46"
+    },
+    {
+      "url": "db://assets/Scene/MoveGameScene.fire",
+      "uuid": "2d2f792f-a40c-49bb-a189-ed176a246e49"
+    }
+  ],
+  "sourceMaps": false,
+  "startScene": "94fd2f92-6fbc-4ec2-bbf4-1dc41733bf46",
+  "template": "default",
+  "title": "eliminate",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "project": "D:\\GitHub\\GamePro",
+  "projectName": "eliminate",
+  "runtimePath": "D:\\installdir\\CocosCreator\\resources\\engine",
+  "debugBuildWorker": false
+}
+2017-09-06T12:21:48.509Z - normal: Building D:\GitHub\GamePro
+2017-09-06T12:21:48.509Z - normal: Destination D:\GitHub\GamePro\build\web-desktop
+2017-09-06T12:21:48.510Z - normal: Delete D:\GitHub\GamePro\build\web-desktop\res/**/*
+2017-09-06T12:21:48.512Z - normal: Delete D:\GitHub\GamePro\build\web-desktop\src/*/
+2017-09-06T12:22:03.482Z - normal: Compiled project javascript file successfully
+2017-09-06T12:22:03.482Z - normal: Start building assets
+2017-09-06T12:22:03.483Z - normal: Start spawn build-worker
+2017-09-06T12:22:29.908Z - normal: Load worker timeout, reload worker.
+2017-09-06T12:22:30.450Z - normal: Finish spawn build-worker
+2017-09-06T12:22:30.451Z - normal: Start init build-worker
+2017-09-06T12:22:31.877Z - normal: 1.5.1
+2017-09-06T12:22:31.903Z - normal: Finish init build-worker
+2017-09-06T12:22:31.903Z - normal: Start build-assets in worker
+2017-09-06T12:22:32.149Z - normal: Finish build-assets in worker
+2017-09-06T12:22:32.154Z - normal: Finish building assets
+2017-09-06T12:22:32.163Z - normal: Start building raw assets
+2017-09-06T12:22:32.164Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\TetrisGame\CTGcurscore.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\TetrisGame\CTGcurscore.png
+2017-09-06T12:22:32.164Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\common\ico_add_cell.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\ico_add_cell.png
+2017-09-06T12:22:32.164Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\common\ico_audio_on.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\ico_audio_on.png
+2017-09-06T12:22:32.164Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\common\item_ico_refresh.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\item_ico_refresh.png
+2017-09-06T12:22:32.164Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\TetrisGame\CTGhighscore.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\TetrisGame\CTGhighscore.png
+2017-09-06T12:22:32.164Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\common\ico_glod.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\ico_glod.png
+2017-09-06T12:22:32.164Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\common\pause.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\pause.png
+2017-09-06T12:22:32.164Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\MainScene\main_bg.jpg to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\MainScene\main_bg.jpg
+2017-09-06T12:22:32.164Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\MainScene\start_title.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\MainScene\start_title.png
+2017-09-06T12:22:32.164Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\common\ico_scene_bg.jpg to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\ico_scene_bg.jpg
+2017-09-06T12:22:32.164Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\MainScene\ico_start_game.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\MainScene\ico_start_game.png
+2017-09-06T12:22:32.164Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\common\ico_game_bg.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\ico_game_bg.png
+2017-09-06T12:22:32.165Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\common\item_ico_break.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\item_ico_break.png
+2017-09-06T12:22:32.165Z - normal: [build-raw-assets] Start copying D:\installdir\CocosCreator\resources\static\default-assets\image\default_btn_disabled.png to D:\GitHub\GamePro\build\web-desktop\res\raw-internal\image\default_btn_disabled.png
+2017-09-06T12:22:32.165Z - normal: [build-raw-assets] Start copying D:\installdir\CocosCreator\resources\static\default-assets\image\default_btn_pressed.png to D:\GitHub\GamePro\build\web-desktop\res\raw-internal\image\default_btn_pressed.png
+2017-09-06T12:22:32.165Z - normal: [build-raw-assets] Start copying D:\installdir\CocosCreator\resources\static\default-assets\image\default_btn_normal.png to D:\GitHub\GamePro\build\web-desktop\res\raw-internal\image\default_btn_normal.png
+2017-09-06T12:22:32.178Z - normal: [build-raw-assets] Finish copying D:\installdir\CocosCreator\resources\static\default-assets\image\default_btn_disabled.png to D:\GitHub\GamePro\build\web-desktop\res\raw-internal\image\default_btn_disabled.png
+2017-09-06T12:22:32.181Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\TetrisGame\CTGcurscore.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\TetrisGame\CTGcurscore.png
+2017-09-06T12:22:32.182Z - normal: [build-raw-assets] Finish copying D:\installdir\CocosCreator\resources\static\default-assets\image\default_btn_pressed.png to D:\GitHub\GamePro\build\web-desktop\res\raw-internal\image\default_btn_pressed.png
+2017-09-06T12:22:32.183Z - normal: [build-raw-assets] Finish copying D:\installdir\CocosCreator\resources\static\default-assets\image\default_btn_normal.png to D:\GitHub\GamePro\build\web-desktop\res\raw-internal\image\default_btn_normal.png
+2017-09-06T12:22:32.184Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\common\item_ico_refresh.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\item_ico_refresh.png
+2017-09-06T12:22:32.185Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\TetrisGame\CTGhighscore.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\TetrisGame\CTGhighscore.png
+2017-09-06T12:22:32.185Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\common\pause.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\pause.png
+2017-09-06T12:22:32.185Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\common\ico_glod.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\ico_glod.png
+2017-09-06T12:22:32.185Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\common\ico_audio_on.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\ico_audio_on.png
+2017-09-06T12:22:32.186Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\MainScene\start_title.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\MainScene\start_title.png
+2017-09-06T12:22:32.186Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\common\ico_add_cell.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\ico_add_cell.png
+2017-09-06T12:22:32.186Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\MainScene\ico_start_game.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\MainScene\ico_start_game.png
+2017-09-06T12:22:32.186Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\common\ico_game_bg.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\ico_game_bg.png
+2017-09-06T12:22:32.187Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\common\item_ico_break.png to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\item_ico_break.png
+2017-09-06T12:22:32.187Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\common\ico_scene_bg.jpg to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\common\ico_scene_bg.jpg
+2017-09-06T12:22:32.187Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\MainScene\main_bg.jpg to D:\GitHub\GamePro\build\web-desktop\res\raw-assets\Texture\MainScene\main_bg.jpg
+2017-09-06T12:22:32.188Z - normal: Finish building raw assets
+2017-09-06T12:22:32.207Z - normal: Generating main.js from D:\installdir\CocosCreator\resources\static\build-templates\shares\main.js
+2017-09-06T12:22:32.220Z - normal: Generating html from D:\installdir\CocosCreator\resources\static\build-templates\web-desktop\template\index.html
+2017-09-06T12:22:32.226Z - normal: Built to "D:\GitHub\GamePro\build\web-desktop" successfully
+2017-09-06T12:22:32.231Z - normal: [HotUpdateTools] SearchPath updated in built main.js for hot update
+2017-09-06T12:22:44.443Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "D:\\GitHub\\GamePro\\build",
+  "debug": false,
+  "dest": "D:\\GitHub\\GamePro\\build\\web-mobile",
+  "excludedModules": [],
+  "includeAnySDK": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": 720,
+  "previewWidth": 1280,
+  "privateKey": "",
+  "renderMode": "0",
+  "scenes": [
+    {
+      "url": "db://assets/Scene/MainScene.fire",
+      "uuid": "94fd2f92-6fbc-4ec2-bbf4-1dc41733bf46"
+    },
+    {
+      "url": "db://assets/Scene/MoveGameScene.fire",
+      "uuid": "2d2f792f-a40c-49bb-a189-ed176a246e49"
+    }
+  ],
+  "sourceMaps": false,
+  "startScene": "94fd2f92-6fbc-4ec2-bbf4-1dc41733bf46",
+  "template": "default",
+  "title": "eliminate",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "project": "D:\\GitHub\\GamePro",
+  "projectName": "eliminate",
+  "runtimePath": "D:\\installdir\\CocosCreator\\resources\\engine",
+  "debugBuildWorker": false
+}
+2017-09-06T12:22:44.445Z - normal: Building D:\GitHub\GamePro
+2017-09-06T12:22:44.445Z - normal: Destination D:\GitHub\GamePro\build\web-mobile
+2017-09-06T12:22:44.447Z - normal: Delete D:\GitHub\GamePro\build\web-mobile\res/**/*
+2017-09-06T12:22:44.451Z - normal: Delete D:\GitHub\GamePro\build\web-mobile\src/*/
+2017-09-06T12:22:45.674Z - normal: Compiled project javascript file successfully
+2017-09-06T12:22:45.674Z - normal: Start building assets
+2017-09-06T12:22:45.674Z - normal: Start spawn build-worker
+2017-09-06T12:22:46.221Z - normal: Finish spawn build-worker
+2017-09-06T12:22:46.221Z - normal: Start init build-worker
+2017-09-06T12:22:47.680Z - normal: 1.5.1
+2017-09-06T12:22:47.706Z - normal: Finish init build-worker
+2017-09-06T12:22:47.706Z - normal: Start build-assets in worker
+2017-09-06T12:22:47.949Z - normal: Finish build-assets in worker
+2017-09-06T12:22:47.953Z - normal: Finish building assets
+2017-09-06T12:22:47.959Z - normal: Start building raw assets
+2017-09-06T12:22:47.959Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\TetrisGame\CTGcurscore.png to D:\GitHub\GamePro\build\web-mobile\res\raw-assets\Texture\TetrisGame\CTGcurscore.png
+2017-09-06T12:22:47.959Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\common\ico_add_cell.png to D:\GitHub\GamePro\build\web-mobile\res\raw-assets\Texture\common\ico_add_cell.png
+2017-09-06T12:22:47.959Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\common\ico_audio_on.png to D:\GitHub\GamePro\build\web-mobile\res\raw-assets\Texture\common\ico_audio_on.png
+2017-09-06T12:22:47.959Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\common\item_ico_refresh.png to D:\GitHub\GamePro\build\web-mobile\res\raw-assets\Texture\common\item_ico_refresh.png
+2017-09-06T12:22:47.959Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\TetrisGame\CTGhighscore.png to D:\GitHub\GamePro\build\web-mobile\res\raw-assets\Texture\TetrisGame\CTGhighscore.png
+2017-09-06T12:22:47.959Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\common\ico_glod.png to D:\GitHub\GamePro\build\web-mobile\res\raw-assets\Texture\common\ico_glod.png
+2017-09-06T12:22:47.959Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\common\pause.png to D:\GitHub\GamePro\build\web-mobile\res\raw-assets\Texture\common\pause.png
+2017-09-06T12:22:47.959Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\MainScene\main_bg.jpg to D:\GitHub\GamePro\build\web-mobile\res\raw-assets\Texture\MainScene\main_bg.jpg
+2017-09-06T12:22:47.959Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\MainScene\start_title.png to D:\GitHub\GamePro\build\web-mobile\res\raw-assets\Texture\MainScene\start_title.png
+2017-09-06T12:22:47.959Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\common\ico_scene_bg.jpg to D:\GitHub\GamePro\build\web-mobile\res\raw-assets\Texture\common\ico_scene_bg.jpg
+2017-09-06T12:22:47.959Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\MainScene\ico_start_game.png to D:\GitHub\GamePro\build\web-mobile\res\raw-assets\Texture\MainScene\ico_start_game.png
+2017-09-06T12:22:47.959Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\common\ico_game_bg.png to D:\GitHub\GamePro\build\web-mobile\res\raw-assets\Texture\common\ico_game_bg.png
+2017-09-06T12:22:47.960Z - normal: [build-raw-assets] Start copying D:\GitHub\GamePro\assets\Texture\common\item_ico_break.png to D:\GitHub\GamePro\build\web-mobile\res\raw-assets\Texture\common\item_ico_break.png
+2017-09-06T12:22:47.960Z - normal: [build-raw-assets] Start copying D:\installdir\CocosCreator\resources\static\default-assets\image\default_btn_disabled.png to D:\GitHub\GamePro\build\web-mobile\res\raw-internal\image\default_btn_disabled.png
+2017-09-06T12:22:47.960Z - normal: [build-raw-assets] Start copying D:\installdir\CocosCreator\resources\static\default-assets\image\default_btn_pressed.png to D:\GitHub\GamePro\build\web-mobile\res\raw-internal\image\default_btn_pressed.png
+2017-09-06T12:22:47.960Z - normal: [build-raw-assets] Start copying D:\installdir\CocosCreator\resources\static\default-assets\image\default_btn_normal.png to D:\GitHub\GamePro\build\web-mobile\res\raw-internal\image\default_btn_normal.png
+2017-09-06T12:22:47.966Z - normal: [build-raw-assets] Finish copying D:\installdir\CocosCreator\resources\static\default-assets\image\default_btn_disabled.png to D:\GitHub\GamePro\build\web-mobile\res\raw-internal\image\default_btn_disabled.png
+2017-09-06T12:22:47.967Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\common\ico_add_cell.png to D:\GitHub\GamePro\build\web-mobile\res\raw-assets\Texture\common\ico_add_cell.png
+2017-09-06T12:22:47.967Z - normal: [build-raw-assets] Finish copying D:\installdir\CocosCreator\resources\static\default-assets\image\default_btn_pressed.png to D:\GitHub\GamePro\build\web-mobile\res\raw-internal\image\default_btn_pressed.png
+2017-09-06T12:22:47.967Z - normal: [build-raw-assets] Finish copying D:\installdir\CocosCreator\resources\static\default-assets\image\default_btn_normal.png to D:\GitHub\GamePro\build\web-mobile\res\raw-internal\image\default_btn_normal.png
+2017-09-06T12:22:47.969Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\TetrisGame\CTGcurscore.png to D:\GitHub\GamePro\build\web-mobile\res\raw-assets\Texture\TetrisGame\CTGcurscore.png
+2017-09-06T12:22:47.970Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\common\item_ico_refresh.png to D:\GitHub\GamePro\build\web-mobile\res\raw-assets\Texture\common\item_ico_refresh.png
+2017-09-06T12:22:47.971Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\TetrisGame\CTGhighscore.png to D:\GitHub\GamePro\build\web-mobile\res\raw-assets\Texture\TetrisGame\CTGhighscore.png
+2017-09-06T12:22:47.971Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\common\ico_glod.png to D:\GitHub\GamePro\build\web-mobile\res\raw-assets\Texture\common\ico_glod.png
+2017-09-06T12:22:47.971Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\common\pause.png to D:\GitHub\GamePro\build\web-mobile\res\raw-assets\Texture\common\pause.png
+2017-09-06T12:22:47.971Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\common\ico_audio_on.png to D:\GitHub\GamePro\build\web-mobile\res\raw-assets\Texture\common\ico_audio_on.png
+2017-09-06T12:22:47.971Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\common\ico_game_bg.png to D:\GitHub\GamePro\build\web-mobile\res\raw-assets\Texture\common\ico_game_bg.png
+2017-09-06T12:22:47.971Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\MainScene\ico_start_game.png to D:\GitHub\GamePro\build\web-mobile\res\raw-assets\Texture\MainScene\ico_start_game.png
+2017-09-06T12:22:47.971Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\MainScene\start_title.png to D:\GitHub\GamePro\build\web-mobile\res\raw-assets\Texture\MainScene\start_title.png
+2017-09-06T12:22:47.971Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\common\item_ico_break.png to D:\GitHub\GamePro\build\web-mobile\res\raw-assets\Texture\common\item_ico_break.png
+2017-09-06T12:22:47.972Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\common\ico_scene_bg.jpg to D:\GitHub\GamePro\build\web-mobile\res\raw-assets\Texture\common\ico_scene_bg.jpg
+2017-09-06T12:22:47.974Z - normal: [build-raw-assets] Finish copying D:\GitHub\GamePro\assets\Texture\MainScene\main_bg.jpg to D:\GitHub\GamePro\build\web-mobile\res\raw-assets\Texture\MainScene\main_bg.jpg
+2017-09-06T12:22:47.974Z - normal: Finish building raw assets
+2017-09-06T12:22:47.981Z - normal: Generating main.js from D:\installdir\CocosCreator\resources\static\build-templates\shares\main.js
+2017-09-06T12:22:47.999Z - normal: Generating html from D:\installdir\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2017-09-06T12:22:48.009Z - normal: Built to "D:\GitHub\GamePro\build\web-mobile" successfully
+2017-09-06T12:22:48.011Z - normal: [HotUpdateTools] SearchPath updated in built main.js for hot update
