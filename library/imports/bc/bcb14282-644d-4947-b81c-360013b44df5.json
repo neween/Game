@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ico_gift",
+    "texture": "92136969-0e9a-4ed5-8cdd-fc15748922ba",
+    "atlas": "",
+    "rect": [
+      42,
+      1,
+      67,
+      109
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      151,
+      110
+    ]
+  }
+}

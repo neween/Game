@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "CTGline",
+    "texture": "75858580-0c59-4a0b-aa50-5f3e63945fc2",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      75,
+      44
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      76,
+      47
+    ]
+  }
+}

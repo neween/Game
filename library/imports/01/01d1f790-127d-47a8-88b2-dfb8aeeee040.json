@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ico_more",
+    "texture": "9b405dd2-2462-4fbf-87fc-9a0671abe339",
+    "atlas": "",
+    "rect": [
+      22,
+      1,
+      107,
+      109
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      151,
+      110
+    ]
+  }
+}

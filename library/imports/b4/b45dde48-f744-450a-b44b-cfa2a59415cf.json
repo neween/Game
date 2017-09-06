@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ico_glod",
+    "texture": "63f6a026-87be-4901-97c3-8d3cae2bf6c6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      279,
+      67
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      280,
+      67
+    ]
+  }
+}

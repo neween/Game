@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "CTGpuaseright",
+    "texture": "02d0fabb-37a7-4ec1-bc8c-8c216cdc4ebf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      96,
+      52
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      96,
+      52
+    ]
+  }
+}

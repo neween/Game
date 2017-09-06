@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "CTGcurscore",
+    "texture": "2e2f2c31-da2b-4df1-8f9e-8400078add9d",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      130,
+      36
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      134,
+      37
+    ]
+  }
+}

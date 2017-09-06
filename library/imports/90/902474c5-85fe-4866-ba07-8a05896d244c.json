@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ico_lbxpt",
+    "texture": "f5d777dc-ea2e-4bc2-9d76-6f975cceb732",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      407,
+      145
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      407,
+      145
+    ]
+  }
+}

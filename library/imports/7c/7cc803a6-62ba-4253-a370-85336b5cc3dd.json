@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ico_tetris",
+    "texture": "0195ef2f-f1e9-48ba-87dd-655dcd0efb82",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      403,
+      143
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      407,
+      145
+    ]
+  }
+}

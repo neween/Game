@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "CTGchnew",
+    "texture": "0470818a-6144-440c-8e8c-ea37271284b2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      299,
+      122
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      299,
+      122
+    ]
+  }
+}

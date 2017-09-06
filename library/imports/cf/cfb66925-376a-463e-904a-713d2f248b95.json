@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ico_share",
+    "texture": "5d53c038-da62-4a63-bf3c-5ebd377455d3",
+    "atlas": "",
+    "rect": [
+      1,
+      10,
+      93,
+      97
+    ],
+    "offset": [
+      -2.5,
+      -4
+    ],
+    "originalSize": [
+      100,
+      109
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ico_replay",
+    "texture": "383e1143-3a43-487a-b126-909e4059cc40",
+    "atlas": "",
+    "rect": [
+      0,
+      8,
+      95,
+      99
+    ],
+    "offset": [
+      -2.5,
+      -3
+    ],
+    "originalSize": [
+      100,
+      109
+    ]
+  }
+}

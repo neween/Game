@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ico_continue",
+    "texture": "bae86f37-5ec7-4d7d-975c-3cd6398ee1e1",
+    "atlas": "",
+    "rect": [
+      0,
+      8,
+      97,
+      101
+    ],
+    "offset": [
+      -1.5,
+      -4
+    ],
+    "originalSize": [
+      100,
+      109
+    ]
+  }
+}

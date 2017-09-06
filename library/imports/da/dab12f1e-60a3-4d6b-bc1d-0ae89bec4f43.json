@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ico_color",
+    "texture": "d1552cd2-d97c-4bc3-b26c-238801032c6a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      407,
+      145
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      407,
+      145
+    ]
+  }
+}

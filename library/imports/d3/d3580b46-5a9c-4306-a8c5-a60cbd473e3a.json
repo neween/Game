@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "CTGchcontinue",
+    "texture": "cfd247fa-ecb2-4c3e-ab1e-8122219b37dc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      299,
+      122
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      299,
+      122
+    ]
+  }
+}

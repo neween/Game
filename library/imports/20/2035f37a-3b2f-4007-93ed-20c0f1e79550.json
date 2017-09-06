@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ioc_dr_mario",
+    "texture": "0856f90f-d2c5-4409-b306-c5b4df889f91",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      407,
+      145
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      407,
+      145
+    ]
+  }
+}

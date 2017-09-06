@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "item_ico_break",
+    "texture": "f428377f-b821-4081-bf7d-c17df3cb3737",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      72,
+      77
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      74,
+      79
+    ]
+  }
+}

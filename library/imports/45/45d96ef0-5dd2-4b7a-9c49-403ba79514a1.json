@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "item_ico_refresh",
+    "texture": "5c31846d-214f-429e-91e4-fb1605f5e9b2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      70,
+      68
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      72,
+      68
+    ]
+  }
+}

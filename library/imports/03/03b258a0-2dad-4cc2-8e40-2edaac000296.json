@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "CTGhighscore",
+    "texture": "5e3cd925-4dc9-449c-a0de-dd6309b2f922",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      133,
+      34
+    ],
+    "offset": [
+      -0.5,
+      -1
+    ],
+    "originalSize": [
+      136,
+      36
+    ]
+  }
+}

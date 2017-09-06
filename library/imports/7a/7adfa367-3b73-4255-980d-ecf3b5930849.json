@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "beian_start",
+    "texture": "c1cbda03-df36-4e51-b48c-917486dd75c0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      407,
+      145
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      407,
+      145
+    ]
+  }
+}

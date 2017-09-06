@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\Script\\MainScene\\GameLogic.js"],"names":["cc","Class","ctor","log"],"mappings":";;;;;;AAAAA,GAAGC,KAAH,CAAS;AACLC,UAAM,gBAAU;AACZF,WAAGG,GAAH,CAAO,gBAAP;AACH;;AAHI,CAAT","file":"unknown","sourcesContent":["cc.Class({\r\n    ctor: function(){\r\n        cc.log(\"GameLogic ctor\");\r\n    },\r\n\r\n});\r\n"]}

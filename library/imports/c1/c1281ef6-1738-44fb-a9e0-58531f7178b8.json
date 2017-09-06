@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "CTGspeed",
+    "texture": "6a2606f1-e14d-4549-b51b-56d439f93cc1",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      75,
+      46
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      76,
+      48
+    ]
+  }
+}

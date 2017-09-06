@@ -1,0 +1,89 @@
+2017-09-05T11:57:16.533Z - normal: Load ~/.CocosCreator/settings.json
+2017-09-05T11:57:16.536Z - normal: checking language setting...
+2017-09-05T11:57:16.536Z - normal: Language: zh
+2017-09-05T11:57:18.010Z - success: protocol editor-framework registered
+2017-09-05T11:57:18.011Z - success: protocol app registered
+2017-09-05T11:57:18.012Z - success: protocol theme registered
+2017-09-05T11:57:18.012Z - success: protocol profile registered
+2017-09-05T11:57:18.012Z - success: protocol packages registered
+2017-09-05T11:57:18.012Z - success: protocol unpack registerred
+2017-09-05T11:57:18.012Z - success: protocol disable-commonjs registerred
+2017-09-05T11:57:18.282Z - normal: connected!
+2017-09-05T11:57:18.285Z - normal: Check project D:\GitHub\Game
+2017-09-05T11:57:18.287Z - normal: Initializing Cocos2d
+2017-09-05T11:57:18.927Z - normal: Initializing Asset Database
+2017-09-05T11:57:18.977Z - success: protocol uuid registerred
+2017-09-05T11:57:18.977Z - success: protocol db registerred
+2017-09-05T11:57:18.977Z - success: protocol thumbnail registerred
+2017-09-05T11:57:18.977Z - normal: Loading editor/builtin packages
+2017-09-05T11:57:19.009Z - success: anysdk loaded
+2017-09-05T11:57:19.154Z - success: assets loaded
+2017-09-05T11:57:19.157Z - success: builder loaded
+2017-09-05T11:57:19.160Z - success: hierarchy loaded
+2017-09-05T11:57:19.164Z - success: inspector loaded
+2017-09-05T11:57:19.165Z - success: keystore loaded
+2017-09-05T11:57:19.167Z - success: node-library loaded
+2017-09-05T11:57:19.168Z - success: package-asset loaded
+2017-09-05T11:57:19.169Z - success: preferences loaded
+2017-09-05T11:57:19.182Z - success: project-importer loaded
+2017-09-05T11:57:19.185Z - success: project-settings loaded
+2017-09-05T11:57:19.195Z - success: ui-kit loaded
+2017-09-05T11:57:19.197Z - success: ui-grid loaded
+2017-09-05T11:57:19.199Z - success: scene loaded
+2017-09-05T11:57:19.199Z - success: sprite-editor loaded
+2017-09-05T11:57:19.202Z - success: store loaded
+2017-09-05T11:57:19.207Z - success: timeline loaded
+2017-09-05T11:57:19.207Z - normal: Loading builtin packages
+2017-09-05T11:57:19.211Z - success: asset-db-debugger loaded
+2017-09-05T11:57:19.212Z - success: code-editor loaded
+2017-09-05T11:57:19.215Z - success: color-picker loaded
+2017-09-05T11:57:19.217Z - success: console loaded
+2017-09-05T11:57:19.219Z - success: package-manager loaded
+2017-09-05T11:57:19.228Z - success: sdkbox loaded
+2017-09-05T11:57:19.230Z - success: tester loaded
+2017-09-05T11:57:19.231Z - success: ui-kit-preview-extra loaded
+2017-09-05T11:57:19.232Z - success: ui-kit-preview loaded
+2017-09-05T11:57:19.233Z - success: ui-tree loaded
+2017-09-05T11:57:20.184Z - normal: Initializing project D:\GitHub\Game
+2017-09-05T11:57:20.187Z - normal: Loading packages
+2017-09-05T11:57:20.200Z - normal: [Lua Support] version 1.1.6
+2017-09-05T11:57:20.200Z - success: creator-lua-support loaded
+2017-09-05T11:57:20.211Z - success: hot-update-tools loaded
+2017-09-05T11:57:20.211Z - normal: Watching packages
+2017-09-05T11:57:20.258Z - normal: Run Application
+2017-09-05T11:57:20.911Z - success: preview server running at http://localhost:7456
+2017-09-05T11:57:24.913Z - normal: 1.5.1
+2017-09-05T11:59:09.006Z - normal: Compiled project javascript file successfully
+2017-09-05T11:59:16.358Z - normal: Compiled project javascript file successfully
+2017-09-05T11:59:37.965Z - normal: Compiled project javascript file successfully
+2017-09-05T11:59:38.008Z - warn: ctor of CCClass '3617' should not accept any arguments.
+2017-09-05T12:02:16.471Z - normal: Compiled project javascript file successfully
+2017-09-05T12:02:16.604Z - warn: ctor of CCClass '3617' should not accept any arguments.
+2017-09-05T12:02:35.650Z - normal: Compiled project javascript file successfully
+2017-09-05T12:02:35.699Z - warn: ctor of CCClass '3617' should not accept any arguments.
+2017-09-05T12:02:51.228Z - normal: Compiled project javascript file successfully
+2017-09-05T12:02:51.280Z - warn: ctor of CCClass '3617' should not accept any arguments.
+2017-09-05T12:08:39.970Z - normal: Compiled project javascript file successfully
+2017-09-05T12:08:52.284Z - normal: Compiled project javascript file successfully
+2017-09-05T12:08:52.285Z - error: Compile error: Cannot require 'Cell' from 'D:\GitHub\Game\temp\scripts\assets\Script\MainScene'. Module not found.
+    at Readable.<anonymous> (D:\installdir\CocosCreator\resources\app.asar\editor\page\compile-worker.js:1:3157)
+    at emitOne (events.js:96:13)
+    at Readable.emit (events.js:188:7)
+    at Labeled.<anonymous> (D:\installdir\CocosCreator\resources\app.asar\node_modules\read-only-stream\index.js:28:44)
+    at emitOne (events.js:96:13)
+    at Labeled.emit (events.js:188:7)
+    at Labeled.<anonymous> (D:\installdir\CocosCreator\resources\app.asar\node_modules\stream-splicer\index.js:130:18)
+    at emitOne (events.js:101:20)
+    at Labeled.emit (events.js:188:7)
+    at Deps.<anonymous> (D:\installdir\CocosCreator\resources\app.asar\node_modules\stream-splicer\index.js:130:18)
+    at D:\installdir\CocosCreator\resources\app.asar\editor\core\compiler.js:1:1036
+    at D:\installdir\CocosCreator\resources\app.asar\editor\core\compiler.js:1:466
+    at BrowserWindow.<anonymous> (D:\installdir\CocosCreator\resources\app.asar\editor\core\compiler.js:1:2125)
+    at BrowserWindow.g (events.js:286:16)
+    at emitOne (events.js:101:20)
+    at BrowserWindow.emit (events.js:188:7)
+2017-09-05T12:09:09.766Z - normal: Compiled project javascript file successfully
+2017-09-05T12:09:14.140Z - normal: Compiled project javascript file successfully
+2017-09-05T12:09:23.861Z - normal: Compiled project javascript file successfully
+2017-09-05T12:29:21.666Z - normal: Compiled project javascript file successfully
+2017-09-05T12:30:15.783Z - normal: Compiled project javascript file successfully

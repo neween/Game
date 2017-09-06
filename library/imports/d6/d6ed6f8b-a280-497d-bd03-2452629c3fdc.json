@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "picpause",
+    "texture": "1d450a60-6060-4a0b-99e5-34536d04372d",
+    "atlas": "",
+    "rect": [
+      13,
+      4,
+      135,
+      74
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      161,
+      84
+    ]
+  }
+}

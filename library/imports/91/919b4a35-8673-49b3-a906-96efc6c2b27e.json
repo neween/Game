@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ico_add_cell",
+    "texture": "397957ea-fd6a-4ec2-81a6-883e2270526c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      72,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      72,
+      71
+    ]
+  }
+}

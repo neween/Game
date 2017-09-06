@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "CTGpuasemode",
+    "texture": "b9a21915-6707-4b23-bb63-5ab7cc7be055",
+    "atlas": "",
+    "rect": [
+      0,
+      7,
+      99,
+      55
+    ],
+    "offset": [
+      0,
+      -2.5
+    ],
+    "originalSize": [
+      99,
+      64
+    ]
+  }
+}

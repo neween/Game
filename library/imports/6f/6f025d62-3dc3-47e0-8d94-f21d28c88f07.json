@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "WarningLine",
+    "texture": "cd20efae-2c7a-4dfb-bf22-154abc3cc7d8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      560,
+      22
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      560,
+      22
+    ]
+  }
+}

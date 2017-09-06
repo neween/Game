@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "CTGpauseleft",
+    "texture": "d05b27eb-d550-4f1d-9704-6f7ee5122b9e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      94,
+      52
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      94,
+      52
+    ]
+  }
+}

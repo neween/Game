@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ico_weixin",
+    "texture": "8ee7d0ca-0afa-41b2-8cbc-b8ad748d3933",
+    "atlas": "",
+    "rect": [
+      22,
+      1,
+      107,
+      109
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      151,
+      110
+    ]
+  }
+}
